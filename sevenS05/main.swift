@@ -1,8 +1,26 @@
 import Foundation
 
-//**二維陣列  in myarray2
+//******二維陣列  in myarray2
 
-myarray2()
+//myarray2()
+
+
+
+//******** Dictionary in mydictionary
+
+
+//mydic()
+
+
+
+//*********set
+
+
+
+
+
+
+
 
 
 
