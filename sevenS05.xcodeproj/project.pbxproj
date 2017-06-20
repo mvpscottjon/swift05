@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8C4579521EF9327500B4A131 /* myfunc1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4579511EF9327500B4A131 /* myfunc1.swift */; };
 		CE1A5B911EEA348D00AA9A80 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A5B901EEA348D00AA9A80 /* main.swift */; };
 		CE1A5B981EEA391C00AA9A80 /* myarray2.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A5B971EEA391C00AA9A80 /* myarray2.swift */; };
 		CE1A5B9A1EEA512200AA9A80 /* poker1.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1A5B991EEA512200AA9A80 /* poker1.swift */; };
@@ -28,7 +27,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8C4579511EF9327500B4A131 /* myfunc1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myfunc1.swift; sourceTree = "<group>"; };
 		CE1A5B8D1EEA348D00AA9A80 /* sevenS05 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = sevenS05; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE1A5B901EEA348D00AA9A80 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CE1A5B971EEA391C00AA9A80 /* myarray2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = myarray2.swift; sourceTree = "<group>"; };
@@ -72,7 +70,6 @@
 				CE1A5B991EEA512200AA9A80 /* poker1.swift */,
 				CE1A5B9B1EEA6C5D00AA9A80 /* mydictionary.swift */,
 				CE1A5B9D1EEA745500AA9A80 /* myset.swift */,
-				8C4579511EF9327500B4A131 /* myfunc1.swift */,
 			);
 			path = sevenS05;
 			sourceTree = "<group>";
@@ -137,7 +134,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE1A5B981EEA391C00AA9A80 /* myarray2.swift in Sources */,
-				8C4579521EF9327500B4A131 /* myfunc1.swift in Sources */,
 				CE1A5B9C1EEA6C5D00AA9A80 /* mydictionary.swift in Sources */,
 				CE1A5B911EEA348D00AA9A80 /* main.swift in Sources */,
 				CE1A5B9E1EEA745500AA9A80 /* myset.swift in Sources */,
